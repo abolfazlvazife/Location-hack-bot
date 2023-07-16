@@ -1,0 +1,14 @@
+@font-face
+{
+    font-family: 'm';
+    src: url('../font/IRANSANSDN.TTF');
+}
+
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: m;
+    direction: rtl;
+    text-decoration: none;
+}
